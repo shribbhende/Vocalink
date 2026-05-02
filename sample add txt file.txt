@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 dekh file global me ayi kya
+=======
+dekh file global me ayi kya
+abhi isko global me edit kya dekh aayi kya local me
+>>>>>>> 6ae6eb42cc5228fcf5476911a30d9c92fe13cb05
+
+
+3rd time edited by local
